@@ -3,7 +3,7 @@ Hackerrank Certification Problem
 
 ## load all the package
 
-Run 'npm install'
+Run `ng install`
 
 ## Development server
 
